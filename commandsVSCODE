@@ -1,0 +1,32 @@
+COMMANDS FOR VISUAL STUDIO CODE FOR MACOS
+
+1.-MOVEMENT LINE TO ORDER CODE
+⌥ ↓ / ⌥ ↑
+
+2.- IDENTAR BLOQUE
+⇧ + Tab 
+para arreglar la sangra de un 
+bloque mal identado
+
+3.-COMENTAR Y DESCOMENTAR UN BLOQUE
+⌘+⇧ /
+
+4.-COMENTAR UNA FRACCION DE CODIGO
+⇧ ⌥ A
+
+5.-CREAR UNA RUTA
+Describirla donde se requiere y pulsar la opción créate file en el error
+<script src="assets/js/app.js"></script>
+
+
+6.-Ir a la definición
+F12
+
+7.- Borrar Lineas de la misma variable
+Posicionar sobre la palabra ⌘+⇧+l + ⌘+⇧+k 
+
+8.-deshacer y rehacer
+Deshacer ⌘+z
+Rehacer ⌘+⇧+z
+
+9.- Oculrar
